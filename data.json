@@ -1,0 +1,68 @@
+{
+  "EPP010": {
+    "codigo": "EPP010",
+    "nombre": "Rodilleras de Seguridad",
+    "cantidad": 25,
+    "precio": 20.0
+  },
+  "1": {
+    "codigo": "2",
+    "nombre": "Arnés de Seguridad",
+    "cantidad": 15,
+    "precio": 55.0
+  },
+  "123": {
+    "codigo": "123",
+    "nombre": "duvieractualizado",
+    "cantidad": 233,
+    "precio": 123.0
+  },
+  "EPP003": {
+    "codigo": "EPP003",
+    "nombre": "Careta de Protección",
+    "cantidad": 20,
+    "precio": 19.99
+  },
+  "EPP004": {
+    "codigo": "EPP004",
+    "nombre": "Guantes de Protección",
+    "cantidad": 100,
+    "precio": 5.75
+  },
+  "EPP001": {
+    "codigo": "EPP001",
+    "nombre": "Gafas de Seguridad",
+    "cantidad": 50,
+    "precio": 15.99
+  },
+  "EPP002": {
+    "codigo": "EPP002",
+    "nombre": "Casco de Seguridad",
+    "cantidad": 30,
+    "precio": 25.5
+  },
+  "EPP007": {
+    "codigo": "EPP007",
+    "nombre": "Protectores Auditivos",
+    "cantidad": 70,
+    "precio": 12.0
+  },
+  "EPP005": {
+    "codigo": "EPP005",
+    "nombre": "Botas de Seguridad",
+    "cantidad": 40,
+    "precio": 45.99
+  },
+  "EPP006": {
+    "codigo": "EPP006",
+    "nombre": "Mascarilla de Protección",
+    "cantidad": 200,
+    "precio": 2.5
+  },
+  "EPP009": {
+    "codigo": "EPP009",
+    "nombre": "Chaleco Reflectante",
+    "cantidad": 60,
+    "precio": 10.99
+  }
+}
