@@ -7,9 +7,11 @@ public class Vista {
     public String mostrarMenu() {
         return JOptionPane.showInputDialog(null,
                 "Menú:\n1. Añadir elemento\n2. Mostrar elemento\n3. Actualizar elemento\n4. Eliminar elemento\n5. Mostrar todos los elementos\n6. Salir",
-                "Menú Principal",
+                "Menú secundario",
                 JOptionPane.QUESTION_MESSAGE);
     }
+
+
 
     public Elemento crearElemento() {
         String codigo = JOptionPane.showInputDialog("Introduce el código:");

@@ -29,8 +29,5 @@ public class VistaP {
         JOptionPane.showMessageDialog(null, texto);
     }
 
-    public void Ejecutar() {
-        ControladorP controlador = new ControladorP();
-        controlador.ejecutar();
-    }
+
 }
