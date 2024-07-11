@@ -16,6 +16,8 @@ public class supercontrol {
 
         private Controlador controlEPIS = new Controlador();
         private ControladorP controlPESOS = new ControladorP();
+        private Control controlusuarios = new Control();
+
 
 
         public void iniciar() {
@@ -31,7 +33,7 @@ public class supercontrol {
                         controlEPIS.iniciar();
                         break;
                     case "3":
-                        JOptionPane.showMessageDialog(null,"falta agregar modulo usuarios");
+                        controlusuarios.control();
                         break;
 
                     case "4":

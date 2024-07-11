@@ -1,0 +1,57 @@
+{
+  "1": {
+    "Usuario": "yilman",
+    "Contrasena": "jafviuhbaeouivja",
+    "Tipo": "ADMIN"
+  },
+  "2": {
+    "Usuario": "maria",
+    "Contrasena": "securepass123",
+    "Tipo": "TRABAJADOR"
+  },
+  "3": {
+    "Usuario": "juan",
+    "Contrasena": "password456secure",
+    "Tipo": "ADMIN"
+  },
+  "4": {
+    "Usuario": "ana",
+    "Contrasena": "strongpassword789",
+    "Tipo": "TRABAJADOR"
+  },
+  "5": {
+    "Usuario": "carlos",
+    "Contrasena": "mypassword1234",
+    "Tipo": "ADMIN"
+  },
+  "6": {
+    "Usuario": "sofia",
+    "Contrasena": "ultrapassword987",
+    "Tipo": "TRABAJADOR"
+  },
+  "7": {
+    "Usuario": "pedro",
+    "Contrasena": "securepass5555",
+    "Tipo": "TRABAJADOR"
+  },
+  "8": {
+    "Usuario": "laura",
+    "Contrasena": "strongpassword666",
+    "Tipo": "ADMIN"
+  },
+  "9": {
+    "Usuario": "miguel",
+    "Contrasena": "safeandsecure888",
+    "Tipo": "TRABAJADOR"
+  },
+  "10": {
+    "Usuario": "duduudud",
+    "Contrasena": "123456789",
+    "Tipo": "ADMIN"
+  },
+  "11": {
+    "Usuario": "duviueeer",
+    "Contrasena": "1234556789",
+    "Tipo": "ADMIN"
+  }
+}
